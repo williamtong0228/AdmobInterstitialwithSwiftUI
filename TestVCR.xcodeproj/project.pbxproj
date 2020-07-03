@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D1FAE0D24ADD66D00D27822 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1FAE0C24ADD66D00D27822 /* ThirdView.swift */; };
 		3DBADF7324AB1053004B117E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DBADF7224AB1053004B117E /* AppDelegate.swift */; };
 		3DBADF7524AB1053004B117E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DBADF7424AB1053004B117E /* SceneDelegate.swift */; };
 		3DBADF7824AB1053004B117E /* TestVCR.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3DBADF7624AB1053004B117E /* TestVCR.xcdatamodeld */; };
@@ -22,6 +23,7 @@
 /* Begin PBXFileReference section */
 		27EC062F006E8270F33B8278 /* Pods-TestVCR.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestVCR.release.xcconfig"; path = "Target Support Files/Pods-TestVCR/Pods-TestVCR.release.xcconfig"; sourceTree = "<group>"; };
 		355AF33CE4CA93399835FDFC /* Pods-TestVCR.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestVCR.debug.xcconfig"; path = "Target Support Files/Pods-TestVCR/Pods-TestVCR.debug.xcconfig"; sourceTree = "<group>"; };
+		3D1FAE0C24ADD66D00D27822 /* ThirdView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 		3DBADF6F24AB1053004B117E /* TestVCR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestVCR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DBADF7224AB1053004B117E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DBADF7424AB1053004B117E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				3DBADF7924AB1053004B117E /* ContentView.swift */,
 				3DBADF8B24AC4ACC004B117E /* SharedValues.swift */,
 				3DBADF8924AC4614004B117E /* SecondView.swift */,
+				3D1FAE0C24ADD66D00D27822 /* ThirdView.swift */,
 				3DBADF7B24AB1056004B117E /* Assets.xcassets */,
 				3DBADF8024AB1056004B117E /* LaunchScreen.storyboard */,
 				3DBADF8324AB1056004B117E /* Info.plist */,
@@ -205,6 +208,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D1FAE0D24ADD66D00D27822 /* ThirdView.swift in Sources */,
 				3DBADF7324AB1053004B117E /* AppDelegate.swift in Sources */,
 				3DBADF8A24AC4614004B117E /* SecondView.swift in Sources */,
 				3DBADF7524AB1053004B117E /* SceneDelegate.swift in Sources */,
